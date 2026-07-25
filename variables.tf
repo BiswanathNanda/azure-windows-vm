@@ -1,7 +1,7 @@
 variable "location" {
   description = "The Azure Region where resources will be deployed."
   type        = string
-  default     = "SouthIndia"
+  default     = "Central India"
 }
 
 variable "prefix" {
